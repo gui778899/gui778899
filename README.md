@@ -3,7 +3,8 @@
 I am Joao Pestana, a **Software Engineer** based in the UK.
 
 To see my profile in detail, I recommend to look at my LinkedIn profile:
-https://www.linkedin.com/in/guilherme-pestana-73b4b1240/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pestana-73b4b1240/)
+
 
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
