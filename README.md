@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Joao Pestana, a **Software d Engineer** based in the UK.
+I am Joao Pestana, a **Software Engineer** based in the UK.
 
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 ### Stats 
