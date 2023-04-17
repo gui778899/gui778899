@@ -12,7 +12,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### Stats 
-![Gui's GitHub stats](https://github-readme-stats.vercel.app/api?username=gui778899&show_icons=true&theme=radical)
+![Gui's GitHub stats](https://github-readme-stats.vercel.app/api?username=gui778899&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui778899&hide=TeX&layout=compact&theme=prussian)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gui778899.visitor-badge)
+
 
