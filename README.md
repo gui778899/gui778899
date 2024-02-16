@@ -3,12 +3,6 @@
 I am Joao Pestana, a **Software Engineer** based in the UK.
 
 To see my profile in detail, I recommend to look at my LinkedIn profile:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pestana-73b4b1240/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guipes/)
 
 
-### Skills
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
